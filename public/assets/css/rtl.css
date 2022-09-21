@@ -101,7 +101,7 @@ section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Cairo', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -19771,7 +19771,7 @@ html {
   font-size: 14px; }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'cairo', sans-serif;
   margin: 0;
   padding: 0;
   font-size: 0.95rem;
@@ -19784,7 +19784,7 @@ h1, h2, h3, h4, h5, h6, p, span, ul, li, a, ol {
 h1, h2, h3, h4, h5, h6 {
   color: #323232;
   font-weight: 500;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'cairo', sans-serif;
   margin-bottom: 0.5rem; }
 
 h1 {
